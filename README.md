@@ -22,3 +22,6 @@ Centralização dos Dados: Todos os dados da empresa estarão centralizados em u
 
 🔎Conclusão
 A migração dos modelos de dados do Excel para o MySQL utilizando técnicas de data warehouse dimensionais representa um passo importante para a modernização da infraestrutura de dados da empresa. Este projeto não apenas melhora a eficiência operacional, mas também proporciona uma base sólida para análises mais profundas e estratégicas, alinhadas com os objetivos de negócio da organização.
+
+💻 Tecnologias: DB.Schema para modelagem e datawarehouse;
+                 MySQL para conectarmos a modelagem e tranformar e carregar os novos dados;
