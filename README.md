@@ -1,4 +1,4 @@
-Projeto Real de Análise de Dados 
+#Projeto Real de Análise de Dados 
 
 🔎Objetivo Este projeto visa a análise e a migração dos modelos de dados de uma empresa, atualmente armazenados em planilhas do Excel, para um banco de dados MySQL utilizando técnicas de data warehouse dimensionais. O objetivo principal é centralizar e estruturar os dados de forma a facilitar consultas analíticas e relatórios.
 
